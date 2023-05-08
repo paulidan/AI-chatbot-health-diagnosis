@@ -1,0 +1,66 @@
+How old are you and what is your gender? (e.g., 23 female): 45 male
+Patient is: 45 year old male.
+Please describe you complaints: headache
+ ✔︎ Headache
+Please describe you complaints: chest pain
+ ✔︎ Chest pain
+Please describe you complaints: back pain
+ ✔︎ Back pain
+Please describe you complaints: fever
+ ✔︎ Fever
+
+Is the chest pain severe? yes
+Are the headaches severe? yes
+Has the chest pain lasted between 30 minutes and 8 hours? no
+Have you been diagnosed with hypertension? no
+Have you had surgery or invasise medical, dental, or cosmetic procedure in the past few weeks? no
+Is the back pain severe? n
+Has the fever lasted less than 3 days? n
+Is your body temperature between 100.4 and 104°F or 38 and 40°C? yes
+Is the chest pain squeezing or pressing, or does it feel like there is a heavy weight on your chest? no
+Do you smoke or have you smoked cigarettes in the past for at least 10 years? no
+Does the chest pain move or spread to the left upper limb, e.g., shoulder, arm, or fingers? no
+Did the chest pain start suddenly? yes
+Is the chest pain worse when you touch or press your chest? yes
+Does the chest pain worsen when you move your upper body, e.g., bending downwards or twisting from side to side? yes
+
+Patient statement::
+
+Given answers::
+ 1. ✔︎ Headache
+ 2. ✔︎ Chest pain
+ 3. ✔︎ Back pain, lumbar
+ 4. ✔︎ Fever
+ 5. ✔︎ Chest pain, severe
+ 6. ✗ Back pain, severe
+ 7. ✔︎ Headache, severe
+ 8. ✗ Skin mark from insect or bug bite
+ 9. ✔︎ Recent physical injury
+10. ✔︎ Head area injury
+11. ✗ Recent head injury
+12. ✔︎ Serious injury, respiratory difficulty, severe bleeding, new neurological problem
+13. ✗ Neurological deficit, since less than 24 hours
+14. ✗ Respiratory distress, after trauma
+15. ✗ Dental trauma
+16. ✔︎ Major force injury
+17. ✗ Dyspnea, acute, after trauma
+18. ✗ Confusion, after trauma
+19. ✗ Chest pain, lasting between 30 minutes and 8 hours
+20. ✗ Flank pain
+21. ✔︎ Fever, between 100.4 and 104°F or 38 and 40°C
+22. ✗ Fever, lasting less than 3 days
+23. ✔︎ Trunk injury
+24. ✗ Limb injury
+25. ✔︎ Eye injury
+26. ✗ Serious eye injury
+27. ✔︎ Lip injury
+28. ✗ Neck injury
+29. ✔︎ Ear injury
+
+Your diagnoses are:
+ 1. 0.92 Costochondritis
+ 2. 0.14 Migraine
+ 3. 0.12 Cervical strain
+
+What you should do?: emergency
+Do you need teleconsultation?: False
